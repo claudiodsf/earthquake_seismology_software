@@ -27,6 +27,16 @@ GitHub topic: https://github.com/topics/earthquake-detection
 - [LOKI](https://github.com/wulwife/LOKI):
   earthquake LOcation by waveform staKIng.
   ![GitHub last commit](https://img.shields.io/github/last-commit/wulwife/LOKI)
+- [PhaseNet](https://github.com/wayneweiqiang/PhaseNet):
+  A Deep-Neural-Network-Based Seismic Arrival Time Picking Method.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/wayneweiqiang/PhaseNet)
+- [PhaseLink](https://github.com/interseismic/PhaseLink):
+  A deep learning approach to seismic phase association.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/interseismic/PhaseLink)
+- [EQTransformer](https://github.com/smousavi05/EQTransformer):
+  EQTransformer, a python package for earthquake signal detection and phase picking using AI.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/EQTransformer)
+
 
 
 ## Earthquake processing systems
