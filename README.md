@@ -36,7 +36,9 @@ GitHub topic: https://github.com/topics/earthquake-detection
 - [EQTransformer](https://github.com/smousavi05/EQTransformer):
   EQTransformer, a python package for earthquake signal detection and phase picking using AI.
   ![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/EQTransformer)
-
+- [neic-glass3](https://github.com/usgs/neic-glass3):
+  Next generation seismic event detection and association algorithm.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/usgs/neic-glass3)
 
 
 ## Earthquake processing systems
