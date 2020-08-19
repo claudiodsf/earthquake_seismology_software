@@ -1,5 +1,5 @@
 # Earthquake seismology software
-A curated list of earthquake seismology software.
+A curated list of earthquake seismology software, mostly on GitHub.
 
 Feel free to contribute through a pull request!
 
@@ -42,6 +42,10 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [FAST](https://github.com/stanford-futuredata/FAST):
   End-to-end earthquake detection pipeline via efficient time series similarity search.
   ![GitHub last commit](https://img.shields.io/github/last-commit/stanford-futuredata/FAST)
+
+
+## Earthquake Location
+GitHub topic: https://github.com/topics/earthquake-location (consider adding the topic `earthquake-location` to your repository).
 
 
 ## Earthquake processing systems
