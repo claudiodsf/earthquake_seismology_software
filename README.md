@@ -4,7 +4,7 @@ A curated list of earthquake seismology software.
 Feel free to contribute through a pull request!
 
 ## Earthquake Detection
-GitHub topic: https://github.com/topics/earthquake-detection
+GitHub topic: https://github.com/topics/earthquake-detection (consider adding the topic `#earthquake-detection` to your repository).
 
 - [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan):
   A python package for the detection and analysis of repeating and near-repeating earthquakes.
