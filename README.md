@@ -39,6 +39,9 @@ GitHub topic: https://github.com/topics/earthquake-detection
 - [neic-glass3](https://github.com/usgs/neic-glass3):
   Next generation seismic event detection and association algorithm.
   ![GitHub last commit](https://img.shields.io/github/last-commit/usgs/neic-glass3)
+- [FAST](https://github.com/stanford-futuredata/FAST):
+  End-to-end earthquake detection pipeline via efficient time series similarity search.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/stanford-futuredata/FAST)
 
 
 ## Earthquake processing systems
