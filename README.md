@@ -42,6 +42,9 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [FAST](https://github.com/stanford-futuredata/FAST):
   End-to-end earthquake detection pipeline via efficient time series similarity search.
   ![GitHub last commit](https://img.shields.io/github/last-commit/stanford-futuredata/FAST)
+- [REDPy](https://github.com/ahotovec/REDPy):
+  Repeating Earthquake Detector in Python.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/ahotovec/REDPy)
 
 
 ## Earthquake Location
