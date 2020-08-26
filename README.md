@@ -21,6 +21,9 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [FAST](https://github.com/stanford-futuredata/FAST):
   End-to-end earthquake detection pipeline via efficient time series similarity search.
   ![GitHub last commit](https://img.shields.io/github/last-commit/stanford-futuredata/FAST)
+- [GPD](https://github.com/interseismic/generalized-phase-detection):
+  Generalized Seismic Phase Detection with Deep Learning.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/interseismic/generalized-phase-detection)
 - [LOKI](https://github.com/wulwife/LOKI):
   earthquake LOcation by waveform staKIng.
   ![GitHub last commit](https://img.shields.io/github/last-commit/wulwife/LOKI)  
