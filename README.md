@@ -42,6 +42,9 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [PhaseNet](https://github.com/wayneweiqiang/PhaseNet):
   A Deep-Neural-Network-Based Seismic Arrival Time Picking Method.
   ![GitHub last commit](https://img.shields.io/github/last-commit/wayneweiqiang/PhaseNet)
+- [Pinky](https://github.com/HerrMuellerluedenscheid/pinky):
+  Deep learning toolbox for earthquake localization and detection.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/HerrMuellerluedenscheid/pinky)
 - [QuakeMigrate](https://github.com/QuakeMigrate/QuakeMigrate):
   A Python package for automatic earthquake detection and location using waveform migration and stacking.
   ![GitHub last commit](https://img.shields.io/github/last-commit/QuakeMigrate/QuakeMigrate)
