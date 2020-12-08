@@ -36,6 +36,9 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [PAD](https://github.com/YijianZhou/PAD):
   Earthquake detection from raw continuous waveform.
   ![GitHub last commit](https://img.shields.io/github/last-commit/YijianZhou/PAD)
+- [PhasePApy](https://github.com/austinholland/PhasePApy):
+  Python Seismic Phase Picker and Associator.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/austinholland/PhasePApy)
 - [PhaseLink](https://github.com/interseismic/PhaseLink):
   A deep learning approach to seismic phase association.
   ![GitHub last commit](https://img.shields.io/github/last-commit/interseismic/PhaseLink)
