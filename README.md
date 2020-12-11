@@ -21,6 +21,9 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [FAST](https://github.com/stanford-futuredata/FAST):
   End-to-end earthquake detection pipeline via efficient time series similarity search.
   ![GitHub last commit](https://img.shields.io/github/last-commit/stanford-futuredata/FAST)
+- [Fast Matched Filter](https://github.com/beridel/fast_matched_filter):
+  An efficient seismic matched-filter search for both CPU and GPU architectures.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/beridel/fast_matched_filter)
 - [GPD](https://github.com/interseismic/generalized-phase-detection):
   Generalized Seismic Phase Detection with Deep Learning.
   ![GitHub last commit](https://img.shields.io/github/last-commit/interseismic/generalized-phase-detection)
