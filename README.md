@@ -57,6 +57,9 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [REDPy](https://github.com/ahotovec/REDPy):
   Repeating Earthquake Detector in Python.
   ![GitHub last commit](https://img.shields.io/github/last-commit/ahotovec/REDPy)
+- [S-SNAP](https://github.com/tanfengzhou/S-SNAP1.1):
+  Seismicity-Scanning based on Navigated Automatic Phase-picking.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/tanfengzhou/S-SNAP1.1)
 
 
 ## Earthquake Location
