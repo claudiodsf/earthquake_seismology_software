@@ -1,4 +1,4 @@
-# Earthquake seismology software
+# Earthquake Seismology Software
 A curated list of earthquake seismology software, mostly on GitHub.
 
 Feel free to contribute through a pull request!
