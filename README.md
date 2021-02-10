@@ -12,7 +12,10 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [CDRP_TF](https://github.com/YijianZhou/CDRP_TF):
   CNN Event Detection & RNN Phase Picking (in Tensorflow)
   ![GitHub last commit](https://img.shields.io/github/last-commit/YijianZhou/CDRP_TF)
-- [easyQuake](https://github.com/jakewalter/easyQuake)
+- [Detex](https://github.com/d-chambers/Detex):
+  A Python package for subspace detection and waveform similarity clustering
+  ![GitHub last commit](https://img.shields.io/github/last-commit/d-chambers/Detex)
+- [easyQuake](https://github.com/jakewalter/easyQuake):
   Simplified machine-learning driven earthquake detection, location, and analysis in one easy-to-implement python package.
   ![GitHub last commit](https://img.shields.io/github/last-commit/jakewalter/easyQuake)
 - [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan):
