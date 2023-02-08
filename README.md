@@ -66,6 +66,9 @@ GitHub topic: https://github.com/topics/earthquake-detection (consider adding th
 - [S-SNAP](https://github.com/tanfengzhou/S-SNAP1.1):
   Seismicity-Scanning based on Navigated Automatic Phase-picking.
   ![GitHub last commit](https://img.shields.io/github/last-commit/tanfengzhou/S-SNAP1.1)
+- [SeisBench](https://github.com/seisbench/seisbench):
+  A toolbox for machine learning in seismology.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/seisbench/seisbench)
 
 
 ## Earthquake Location
